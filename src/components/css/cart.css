@@ -1,0 +1,7 @@
+.cart button {
+  padding: 5px;
+}
+.cart button a {
+  text-decoration: none;
+  color: black;
+}

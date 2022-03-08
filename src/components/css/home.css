@@ -1,0 +1,21 @@
+.Home {
+  padding: 10px;
+}
+.Products {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 10px;
+  padding: 1em;
+}
+.winebox {
+  border: 1px solid grey;
+  padding: 1em;
+}
+
+.winebox img {
+  width: 50px;
+  height: 200px;
+}
+button {
+  padding: 5px;
+}
